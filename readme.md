@@ -27,6 +27,25 @@ For any questions and feedback, especially if you think could be useful also for
 
 ---
 
+If you use this FMU, please cite our paper: 
+
+> **Invited Paper: Physics-Driven Real-Time CPS Challenge**, Paolo Pazzaglia, Kevin Schmidt, Laura Beermann, Dirk Ziegenbein and Arne Hamann. *32nd IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS 2026)*, 2026,
+https://ieeexplore.ieee.org/abstract/document/11558389
+
+```
+@inproceedings{pazzaglia2026physics,
+  title={Physics-Driven Real-Time CPS Challenge},
+  author={Pazzaglia, Paolo and Schmidt, Kevin and Beermann, Laura and Ziegenbein, Dirk and Hamann, Arne},
+  booktitle={2026 IEEE 32nd Real-Time and Embedded Technology and Applications Symposium (RTAS)},
+  pages={222--233},
+  year={2026},
+  organization={IEEE},
+  doi={10.1109/RTAS68450.2026.00029}
+}
+``` 
+
+---
+
 ## 2. How to Use the FMU
 
 The *LateralMotionControl* is provided as a .fmu file, precompiled for Windows 64 platform using gcc.
